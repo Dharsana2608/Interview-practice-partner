@@ -1,3 +1,5 @@
+# Interview-practice-partner
+
 # Interview Agent - Technical Assessment Platform
 
 A voice-based technical interview platform built with Streamlit.
@@ -78,4 +80,3 @@ The application will start and automatically open in your default web browser at
 - **Port already in use**: If port 8501 is busy, Streamlit will automatically use the next available port
 - **API errors**: Make sure your `GROQ_API_KEY` is correctly set in the `.env` file
 - **Audio issues**: Ensure your microphone permissions are granted in your browser
-
