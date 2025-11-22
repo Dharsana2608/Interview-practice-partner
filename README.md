@@ -61,7 +61,6 @@ The application will start and automatically open in your default web browser at
 ## Features
 
 - **30-second timer** for answering each question
-- **10-second timeout** after mic activation if no response is received
 - Voice-based interview with automatic transcription
 - AI-powered interview coordinator and interviewer
 - Real-time feedback and assessment
@@ -73,7 +72,6 @@ The application will start and automatically open in your default web browser at
 3. Click "Start Assessment Now" to begin
 4. Use the microphone button to record your answers
 5. You have 30 seconds to start answering each question
-6. If you activate the mic but don't respond within 10 seconds, it will skip to the next question
 
 ## Troubleshooting
 
